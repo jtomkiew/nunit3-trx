@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunit3_trx", "nunit3-trx\nunit3-trx.csproj", "{55CDD0D1-0059-40FD-A4C3-D0FB4B08496E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "runner", "runner\runner.csproj", "{09A58B43-4586-4E88-8099-FFCAA85675D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CDD0D1-0059-40FD-A4C3-D0FB4B08496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CDD0D1-0059-40FD-A4C3-D0FB4B08496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CDD0D1-0059-40FD-A4C3-D0FB4B08496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CDD0D1-0059-40FD-A4C3-D0FB4B08496E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A58B43-4586-4E88-8099-FFCAA85675D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A58B43-4586-4E88-8099-FFCAA85675D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A58B43-4586-4E88-8099-FFCAA85675D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A58B43-4586-4E88-8099-FFCAA85675D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
